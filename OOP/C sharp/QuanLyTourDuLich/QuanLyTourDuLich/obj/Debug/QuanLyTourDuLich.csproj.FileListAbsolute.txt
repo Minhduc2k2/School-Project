@@ -1,0 +1,56 @@
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\Cuoi Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\gibhut\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\Cuoi Ky\OOP_Cuoi_Ky\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\Cuoi Ky\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\Nộp\Nộp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+D:\SPKT\HK3\OOP\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+C:\Users\thanh\Desktop\OOP - Nhóm 3 - Cuối kỳ\C sharp\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
